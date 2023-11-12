@@ -144,8 +144,8 @@ Welcome to the team! We're excited to have you on board. This document will guid
 
 Congratulations! Your changes will be merged into the dev branch after the review process. If you have any questions or concerns, feel free to communicate with your team lead or colleagues. Happy hacking!
 
-### 4. Workflow for Lead Developers
-#### 4.1. Creating Issues
+### 4. Workflow for Lead Developers:
+#### 4.1. Creating Issues:
 
 1. On the GitHub repository page, click the "Issues" tab.
 
@@ -155,7 +155,7 @@ Congratulations! Your changes will be merged into the dev branch after the revie
 
 4. Assign labels, milestones, and assignees as needed.
 
-#### 4.2. Reviewing Pull Requests
+#### 4.2. Reviewing Pull Requests:
 
 1. Navigate to the "Pull Requests" tab on GitHub.
 
@@ -163,7 +163,7 @@ Congratulations! Your changes will be merged into the dev branch after the revie
 
 3. Add comments, request changes, or approve the pull request.
 
-#### 4.3. Merging Pull Requests
+#### 4.3. Merging Pull Requests:
 
 1. Ensure the pull request has been reviewed and approved.
 
@@ -173,11 +173,11 @@ Congratulations! Your changes will be merged into the dev branch after the revie
 
 **Notice**: All changes must be merged into the development branch. Then you should periodically, synchronize the development branch by merging it into the main branch to maintain the latest features and fixes.
 
-#### 4.4. Closing Issues
+#### 4.4. Closing Issues:
 
 1. Once the changes are merged, close the related issue.
 
 2. Add any necessary comments or details regarding the resolution.
 
-### 5. Outro
+### 5. Outro:
 Thank you for taking the time to familiarize yourself with our collaboration guide. We wish you the best in your work and hope for great results! If you have any questions, feel free to reach out to your team or fellow developers.
