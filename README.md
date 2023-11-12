@@ -126,7 +126,7 @@ Welcome to the team! We're excited to have you on board. This document will guid
 
 2. Click on the "New Pull Request" button.
 
-3. Select the base repository (organization/repository) and the base branch (dev) and the compare branch (e.g., feature/your-feature-name).
+3. Select the base branch (dev) and the compare branch (e.g., feature/your-feature-name).
 
 4. Click on "Create Pull Request."
 
