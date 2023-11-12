@@ -7,6 +7,7 @@
 - [Step 4: Invite Team Members](#step-4-invite-team-members)
 - [Step 5: Create Private Repositories](#step-5-create-private-repositories)
 - [Step 6: Set Up Teams](#step-6-set-up-teams)
+- [Step 7: Reviewing and Merging](#step-7-reviewing-and-meging)
 
 
 #### Step 1: Sign Up for a GitHub Account
@@ -91,6 +92,11 @@
    - For users added individually to repositories, consider creating a separate team (e.g., "Individual Contributors") with minimal base access to ensure consistency and easy management.
 
 5. Assign team members to their respective teams and define repository access levels based on their roles.
+
+#### Step 7: Reviewing and Merging
+
+1. When changes are deemed ready, use GitHub's "Merge" button to integrate them into the development branch.
+2. Periodically, synchronize the development branch by merging it into the main/prod branch to maintain the latest features and fixes.
 
 
 
