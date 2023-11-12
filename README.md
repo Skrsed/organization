@@ -81,6 +81,7 @@ Welcome to the team! We're excited to have you on board. This document will guid
 
 9. Click on "Create Pull Request" again to submit your request.
 
+10. In the pull request description, link the related issue using the # symbol and issue number (e.g., #123). This helps in cross-referencing and provides context for the changes.
 
 ### 3. Workflow for Core Developers:
 #### 3.1. Working with Branches:
@@ -127,7 +128,7 @@ Welcome to the team! We're excited to have you on board. This document will guid
 
 3. Select the base repository (organization/repository) and the base branch (dev).
 
-4. Select the head repository (your forked repository) and the compare branch (e.g., feature/your-feature-name).
+4. Select the head repository (organization/repository) and the compare branch (e.g., feature/your-feature-name).
 
 5. Click on "Create Pull Request."
 
