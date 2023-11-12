@@ -126,21 +126,19 @@ Welcome to the team! We're excited to have you on board. This document will guid
 
 2. Click on the "New Pull Request" button.
 
-3. Select the base repository (organization/repository) and the base branch (dev).
+3. Select the base repository (organization/repository) and the base branch (dev) and the compare branch (e.g., feature/your-feature-name).
 
-4. Select the head repository (organization/repository) and the compare branch (e.g., feature/your-feature-name).
+4. Click on "Create Pull Request."
 
-5. Click on "Create Pull Request."
+5. Add a title and description to explain your changes.
 
-6. Add a title and description to explain your changes.
+6. Request a review from relevant team members.
 
-7. Request a review from relevant team members.
+7. Apply appropriate labels to categorize your contribution, such as "feature," "bugfix," or other relevant labels.
 
-8. Apply appropriate labels to categorize your contribution, such as "feature," "bugfix," or other relevant labels.
+8. Click on "Create Pull Request" again to submit your request.
 
-9. Click on "Create Pull Request" again to submit your request.
-
-10. In the pull request description, link the related issue using the # symbol and issue number (e.g., #123). This helps in cross-referencing and provides context for the changes.
+9. In the pull request description, link the related issue using the # symbol and issue number (e.g., #123). This helps in cross-referencing and provides context for the changes.
 
 Congratulations! Your changes will be merged into the dev branch after the review process. If you have any questions or concerns, feel free to communicate with your team lead or colleagues. Happy hacking!
 
